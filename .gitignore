@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+logs/*.log
+config.local.json
+.vosk_model/
+*.egg-info/
+.pytest_cache/

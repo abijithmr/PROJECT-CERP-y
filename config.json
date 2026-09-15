@@ -1,0 +1,28 @@
+{
+  "wake_word": "hey cerp",
+  "listen_timeout": 5,
+  "phrase_time_limit": 5,
+  "energy_threshold": 300,
+  "vosk_model_path": "model",
+  "ui": {
+    "high_contrast": false,
+    "large_text": false,
+    "tts_feedback": true,
+    "font_scale": 1.0
+  },
+  "app_paths": {
+    "notepad": "notepad.exe",
+    "calculator": "calc.exe",
+    "chrome": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "word": "C:\\Program Files\\Microsoft Office\\root\\Office16\\WINWORD.EXE",
+    "excel": "C:\\Program Files\\Microsoft Office\\root\\Office16\\EXCEL.EXE",
+    "powerpoint": "C:\\Program Files\\Microsoft Office\\root\\Office16\\POWERPNT.EXE"
+  },
+  "web_apps": {
+    "gmail": "https://mail.google.com",
+    "youtube": "https://www.youtube.com",
+    "instagram": "https://www.instagram.com",
+    "google": "https://www.google.com"
+  },
+  "custom_commands": {}
+}
