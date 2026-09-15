@@ -97,10 +97,7 @@ PROJECT-CERP-y/
 - Gesture recognition / eye-tracking support
 - Multiple named command profiles
 
-## Contributors
-- **[dgkingsway](https://github.com/dgkingsway)**
-- **[dark blind](https://github.com/ala527)**
-- **[smoking red](https://github.com/AlwinJs)**
+
 
 Want to contribute? Check out our [Contributing Guidelines](CONTRIBUTING.md).
 
