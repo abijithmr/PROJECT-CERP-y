@@ -1,12 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B6E4F,60:14B8A6,100:84CC16&height=180&section=header&text=CERP-Y&fontSize=72&fontColor=ffffff&fontAlignY=42&desc=Hands-free%20computer%20control%20for%20people%20with%20motor%20disabilities&descSize=17&descAlignY=64" width="100%" alt="CERP-Y"/>
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0B6E4F,55:14B8A6,100:84CC16&height=230&section=header&text=CERP-Y&fontSize=84&fontColor=ffffff&fontAlignY=36&animation=blinking&desc=Hands-free%20computer%20control%20for%20people%20with%20motor%20disabilities&descSize=18&descAlignY=58" width="100%" alt="CERP-Y"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2200&pause=700&color=14B8A6&center=true&vCenter=true&width=560&height=45&lines=%3E+hey+cerp;%3E+open+notepad;%3E+set+volume+to+40;%3E+take+a+screenshot;%3E+start+voice+typing;%3E+shutdown...+confirm+shutdown" alt="Terminal-style animation of voice commands"/>
 
 **Say "hey cerp", then say what you want. It does it and tells you out loud what happened.**
 
 ![Python](https://img.shields.io/badge/python-3.12+-0B6E4F?style=flat-square&logo=python&logoColor=white)
-![GUI](https://img.shields.io/badge/GUI-PyQt6-14B8A6?style=flat-square)
-![Wake word](https://img.shields.io/badge/wake_word-offline_+_online-84CC16?style=flat-square)
+![PyQt6](https://img.shields.io/badge/GUI-PyQt6-14B8A6?style=flat-square&logo=qt&logoColor=white)
+![Vosk](https://img.shields.io/badge/wake_word-Vosk_offline-84CC16?style=flat-square)
+![TTS](https://img.shields.io/badge/spoken_feedback-pyttsx3-0B6E4F?style=flat-square)
+![Windows](https://img.shields.io/badge/best_on-Windows-14B8A6?style=flat-square&logo=windows&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-64748B?style=flat-square)
 
 [Cheat sheet](#voice-command-cheat-sheet) &nbsp;·&nbsp; [How it works](#how-it-fits-together) &nbsp;·&nbsp; [Get started](#getting-started) &nbsp;·&nbsp; [Configuration](#configuration)
@@ -263,3 +267,9 @@ Released under the [MIT License](LICENSE).
 
 > [!IMPORTANT]
 > This project is not affiliated with any other "CERP" projects.
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:84CC16,55:14B8A6,100:0B6E4F&height=110&section=footer" width="100%" alt=""/>
+
+</div>
