@@ -100,7 +100,7 @@ PROJECT-CERP-y/
 ## Contributors
 - **[dgkingsway](https://github.com/dgkingsway)**
 - **[dark blind](https://github.com/ala527)**
-- **[smoking red](https://github.com/AlwinJs)**
+- **[AlwinJCOde667](https://github.com/AlwinJCOde667)**
 
 Want to contribute? Check out our [Contributing Guidelines](CONTRIBUTING.md).
 
