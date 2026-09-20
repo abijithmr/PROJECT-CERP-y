@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B6E4F,60:14B8A6,100:84CC16&height=200&section=header&text=CERP-Y&fontSize=72&fontColor=ffffff&fontAlignY=42&desc=Hands-free%20computer%20control%20for%20people%20with%20motor%20disabilities&descSize=17&descAlignY=64" width="100%" alt="CERP-Y"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B6E4F,60:14B8A6,100:84CC16&height=180&section=header&text=CERP-Y&fontSize=72&fontColor=ffffff&fontAlignY=42&desc=Hands-free%20computer%20control%20for%20people%20with%20motor%20disabilities&descSize=17&descAlignY=64" width="100%" alt="CERP-Y"/>
 
 **Say "hey cerp", then say what you want. It does it and tells you out loud what happened.**
 
