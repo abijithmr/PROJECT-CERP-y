@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0B6E4F,55:14B8A6,100:84CC16&height=230&section=header&text=CERP-Y&fontSize=84&fontColor=ffffff&fontAlignY=36&animation=blinking&desc=Hands-free%20computer%20control%20for%20people%20with%20motor%20disabilities&descSize=18&descAlignY=58" width="100%" alt="CERP-Y"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&reversal=true&color=0:0B6E4F,55:14B8A6,100:84CC16&height=230&section=header&text=CERP-Y&fontSize=84&fontColor=ffffff&fontAlignY=36&animation=blinking&desc=Hands-free%20computer%20control%20for%20people%20with%20motor%20disabilities&descSize=18&descAlignY=58" width="100%" alt="CERP-Y"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2200&pause=700&color=14B8A6&center=true&vCenter=true&width=560&height=45&lines=%3E+hey+cerp;%3E+open+notepad;%3E+set+volume+to+40;%3E+take+a+screenshot;%3E+start+voice+typing;%3E+shutdown...+confirm+shutdown" alt="Terminal-style animation of voice commands"/>
 
@@ -270,6 +270,6 @@ Released under the [MIT License](LICENSE).
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:84CC16,55:14B8A6,100:0B6E4F&height=110&section=footer" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&reversal=true&color=0:84CC16,55:14B8A6,100:0B6E4F&height=110&section=footer" width="100%" alt=""/>
 
 </div>
