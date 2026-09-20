@@ -162,7 +162,7 @@ CERP-y is built around people who cannot rely on a mouse or keyboard, and it sti
 **Install and run**
 
 ```sh
-git clone https://github.com/abijithmr/PROJECT-CERP-y.git
+git clone https://github.com/dgkingsway/PROJECT-CERP-y.git
 cd PROJECT-CERP-y
 pip install -r requirements.txt
 python gui.py
@@ -251,13 +251,15 @@ See [`CHANGELOG.md`](CHANGELOG.md) for what has changed so far.
 
 ## Contributors
 
-| | |
-|:--|:--|
-| [**abijithmr**](https://github.com/abijithmr) | Project owner |
-| [**alan kj**](https://github.com/ala527) | Contributor |
-| [**AlwinJCOde667**](https://github.com/AlwinJCOde667) | Contributor |
+| Name | GitHub |
+|:-----|:-------|
+| dgkingsway | [@dgkingsway](https://github.com/dgkingsway) |
+| dark blind | |
+| abijithmr | [@abijithmr](https://github.com/abijithmr) |
+| alan kj | [@ala527](https://github.com/ala527) |
+| AlwinJCOde667 | [@AlwinJCOde667](https://github.com/AlwinJCOde667) |
 
-Questions or ideas? Open a [GitHub issue](https://github.com/abijithmr/PROJECT-CERP-y/issues).
+Questions or ideas? Open a [GitHub issue](https://github.com/dgkingsway/PROJECT-CERP-y/issues) or email [dgkingsway@gmail.com](mailto:dgkingsway@gmail.com).
 
 ---
 
