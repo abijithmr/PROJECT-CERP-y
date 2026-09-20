@@ -1,18 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5C3,50:0EA5E9,100:8B5CF6&height=240&section=header&text=CERP-Y&fontSize=90&fontColor=ffffff&fontAlignY=38&desc=Voice-controlled%20computer%20access%20for%20people%20with%20motor%20disabilities&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="CERP-Y"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B6E4F,60:14B8A6,100:84CC16&height=200&section=header&text=CERP-Y&fontSize=72&fontColor=ffffff&fontAlignY=42&desc=Hands-free%20computer%20control%20for%20people%20with%20motor%20disabilities&descSize=17&descAlignY=64" width="100%" alt="CERP-Y"/>
 
-<a href="https://github.com/abijithmr/PROJECT-CERP-y">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00E5C3&center=true&vCenter=true&width=640&height=50&lines=%22Hey+CERP%22+%E2%86%92+I'm+listening;Open+Notepad;Set+volume+to+40;Take+a+screenshot;Start+voice+typing;Lock+the+screen" alt="Typing animation of example voice commands"/>
-</a>
+**Say "hey cerp", then say what you want. It does it and tells you out loud what happened.**
 
-<br/>
+![Python](https://img.shields.io/badge/python-3.12+-0B6E4F?style=flat-square&logo=python&logoColor=white)
+![GUI](https://img.shields.io/badge/GUI-PyQt6-14B8A6?style=flat-square)
+![Wake word](https://img.shields.io/badge/wake_word-offline_+_online-84CC16?style=flat-square)
+![License](https://img.shields.io/badge/license-MIT-64748B?style=flat-square)
 
-![Python](https://img.shields.io/badge/Python-3.12%2B-00B8A9?style=for-the-badge&logo=python&logoColor=white)
-![PyQt6](https://img.shields.io/badge/GUI-PyQt6-2ECC71?style=for-the-badge&logo=qt&logoColor=white)
-![Voice](https://img.shields.io/badge/Wake_Word-Offline_%2B_Online-0EA5E9?style=for-the-badge&labelColor=333)
-![TTS](https://img.shields.io/badge/Spoken_Feedback-On-8B5CF6?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-64748B?style=for-the-badge)
+[Cheat sheet](#voice-command-cheat-sheet) &nbsp;·&nbsp; [How it works](#how-it-fits-together) &nbsp;·&nbsp; [Get started](#getting-started) &nbsp;·&nbsp; [Configuration](#configuration)
 
 </div>
 
@@ -266,9 +263,3 @@ Released under the [MIT License](LICENSE).
 
 > [!IMPORTANT]
 > This project is not affiliated with any other "CERP" projects.
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:0EA5E9,100:00E5C3&height=120&section=footer" width="100%" alt=""/>
-
-</div>
