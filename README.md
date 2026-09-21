@@ -99,7 +99,7 @@ PROJECT-CERP-y/
 
 ## Contributors
 - **[abijithmr](https://github.com/abijithmr)**
-- **[alan-kj](https://github.com/alan-kj)**
+- **[alankj](https://github.com/alan-kj)**
 - **[AlwinJCOde667](https://github.com/AlwinJCOde667)**
 
 Want to contribute? Check out our [Contributing Guidelines](CONTRIBUTING.md).
